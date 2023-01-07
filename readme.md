@@ -32,7 +32,7 @@ This project uses various cryptography libraries to implement a benchmark fo the
 2. Install the required libraries using pip:
 
 ```bash
-pip install crypto pycryptodome cryptography rsa
+pip install crypto pycryptodome cryptography rsa matplotlib
 
 ```
 
